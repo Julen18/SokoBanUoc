@@ -57,10 +57,10 @@ public class EditLevelManager : MonoBehaviour
 
     void Update()
     {
-       /* if (Input.GetKeyUp(KeyCode.A))
+        if (Input.GetKeyUp(KeyCode.A))
         {//4
             Win();//hack
-        }*/
+        }
     }
     // Start is called before the first frame update
     void Start()
